@@ -38,7 +38,7 @@ Vite: Fast build tool for frontend applications
 
 API: External API for game data
 
-CSS: Styling of the components
+Chakra-UI - Library used for styling the compoenents
 
 Installation:
 
@@ -65,11 +65,11 @@ makefile
 Copy code
 VITE_APP_API_URL=<your-api-url>
 VITE_APP_ID=<your-api-key>
+
 Start the development server:
 bash
 Copy code
 npm run dev
-
 
 Visit the app at http://localhost:3000.
 
@@ -79,5 +79,3 @@ Use the search bar to find specific games.
 Filter games by genre or platform using the dropdown options.
 
 
-Contributions
-Feel free to fork this project and open a pull request if you have any improvements or bug fixes.

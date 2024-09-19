@@ -78,4 +78,7 @@ Browse games by scrolling through the list.
 Use the search bar to find specific games.
 Filter games by genre or platform using the dropdown options.
 
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
